@@ -53,19 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditiupadhayay94&show_icons=true&hide_border=true&title_color=7C4DFF&icon_color=7C4DFF&text_color=808080&bg_color=00000000" alt="Aditi's GitHub stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiupadhayay94&layout=compact&hide_border=true&title_color=7C4DFF&text_color=808080&bg_color=00000000" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiupadhayay94&hide_border=true&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF&background=00000000" alt="GitHub streak" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 | Project | Description | Tech |
